@@ -12,6 +12,9 @@ td{
     height: 25px;
     color: white;
 }
+td:hover{
+    background-color:green;
+}
 th{
     background-color: aquamarine;
     color: white;
